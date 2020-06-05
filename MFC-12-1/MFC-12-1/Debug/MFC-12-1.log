@@ -1,0 +1,7 @@
+﻿  MFC-12-1View.cpp
+c:\vc实验题\mfc-12-1\mfc-12-1\mfc-12-1view.cpp(159): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\vc实验题\mfc-12-1\mfc-12-1\mfc-12-1view.cpp(160): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\vc实验题\mfc-12-1\mfc-12-1\mfc-12-1view.cpp(165): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\vc实验题\mfc-12-1\mfc-12-1\mfc-12-1view.cpp(172): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  MFC-12-1.vcxproj -> C:\vc实验题\MFC-12-1\Debug\MFC-12-1.exe
+  MFC-12-1.vcxproj -> C:\vc实验题\MFC-12-1\Debug\MFC-12-1.pdb (Partial PDB)
